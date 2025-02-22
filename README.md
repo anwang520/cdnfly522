@@ -51,6 +51,8 @@ CentOS7更换镜像源<br />
 ```bash
 https://cdnfly522.5205230.xyz
 ```
+账号和密码都是：admin
+
 ### 一键换源：<br />
 
 ```bash
